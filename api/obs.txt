@@ -1,0 +1,10 @@
+install rect
+
+node
+npm
+
+npm install create-react-app
+
+rodar na raiz do dir agenda
+
+./node_modules/.bin/create-react-app agenda-contato
